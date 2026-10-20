@@ -1,4 +1,3 @@
-
 # Technologie Mowy — Grupa 6
 
 Repozytorium grupowe do realizacji laboratoriów i projektu
