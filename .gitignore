@@ -12,5 +12,5 @@ __pycache__/
 .vscode/settings.json
 
 # do not upload outputs
-output/*
-!output/.gitkeep
+**/output/*
+!**/output/.gitkeep
