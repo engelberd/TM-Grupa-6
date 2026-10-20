@@ -3,3 +3,6 @@ scipy
 matplotlib
 ipykernel
 plotly
+pandas
+nbformat>=4.2.0
+-e .
