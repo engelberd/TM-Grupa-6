@@ -1,2 +1,11 @@
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
 .venv/
+__pycache__/
+*.pyc
+
 .ipynb_checkpoints/
+.vscode/settings.json
