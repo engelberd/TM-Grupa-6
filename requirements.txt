@@ -4,5 +4,6 @@ matplotlib
 ipykernel
 plotly
 pandas
+ipywidgets
 nbformat>=4.2.0
 -e .
