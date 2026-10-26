@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+ipykernel
+plotly
+ipywidgets
+pandas
+nbformat>=4.2.0
+gdown

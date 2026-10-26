@@ -1,8 +1,2 @@
-numpy
-scipy
-matplotlib
-ipykernel
-plotly
-pandas
-nbformat>=4.2.0
+-r Laby/requirements.txt
 -e .
