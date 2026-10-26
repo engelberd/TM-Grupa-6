@@ -11,6 +11,10 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/settings.json
 
-# do not upload outputs
+# Generated outputs
 **/output/*
 !**/output/.gitkeep
+
+# Laboratory data
+**/data/*
+!**/data/.gitkeep
