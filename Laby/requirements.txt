@@ -9,4 +9,6 @@ nbformat>=4.2.0
 gdown
 nbdime
 nbstripout
+librosa
+crepe
 -e .
