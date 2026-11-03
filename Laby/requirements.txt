@@ -11,4 +11,4 @@ nbdime
 nbstripout
 librosa
 crepe
--e .
+-e 
