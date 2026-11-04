@@ -10,5 +10,4 @@ gdown
 nbdime
 nbstripout
 librosa
-crepe
 -e .
