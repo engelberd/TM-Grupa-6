@@ -6,16 +6,16 @@ z przedmiotu Technologie Mowy.
 ## Struktura
 
 - `Laby/` — zadania laboratoryjne, osobny katalog dla każdego laboratorium.
-  -  `data/` — dane źródłowe.
-  -  `output/` - dane wyjściowe (wyłącznie lokalne). 
-- `Projekt/` — projekt grupowy.
-- `utils/` — wspólne narzędzia.
-- `requirements.txt` — zależności Python.
-- `pyproject.toml` — konfiguracja pakietu python.
+
+  - `data/` — dane źródłowe.
+  - `output/` - dane wyjściowe (wyłącznie lokalne).
+  - `requirements.txt — zależności Python.`
+- `Projekt-DIGITS/` — pierwszy projekt grupowy.
 
 ## Środowisko
 
 Utworzenie środowiska wirtualnego
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
