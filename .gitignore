@@ -21,3 +21,5 @@ __pycache__/
 
 # Training data
 **/training_data/*
+
+sparametryzowane_dane.pkl
