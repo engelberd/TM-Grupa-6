@@ -22,6 +22,4 @@ __pycache__/
 # Training data
 **/training_data/*
 
-results_details.txt
-
 sparametryzowane_dane.pkl
